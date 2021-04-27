@@ -66,8 +66,8 @@ Rename the .env.example file to .env.
 
 ## Install the dependencies:
 
-npm install
-composer install
+- npm install
+- composer install
 
 ## Generate Laravel Keys:
 
