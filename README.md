@@ -68,6 +68,11 @@ Rename the .env.example file to .env.
 
 - npm install
 - composer install
+- npm install vue vue-router vue-axios --save
+
+Note: Is that is not working, try running this command:
+- npm install vue vue-router --save
+- npm install vue-axios --force
 
 ## Generate Laravel Keys:
 
