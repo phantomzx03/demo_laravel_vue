@@ -71,21 +71,21 @@ Rename the .env.example file to .env.
 
 ## Generate Laravel Keys:
 
-php artisan key:generate
+- php artisan key:generate
 
 ## Migrate and seed your local database:
 
-php artisan migrate
+- php artisan migrate
 
 ## Compile the front-end:
 
-npm run watch
+- npm run watch
 
 ## Run the server:
 
-php artisan serve
+- php artisan serve
 
 Note: Is that is not working, try running this command:
 
-php -S localhost:8000 -t public
+- php -S localhost:8000 -t public
 ## After this you should see the app running on http://localhost:8000. Enjoy!!
